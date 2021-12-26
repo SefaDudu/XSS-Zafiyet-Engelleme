@@ -1,0 +1,1 @@
+# XSS-Zafiyet-Engelleme
